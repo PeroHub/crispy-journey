@@ -1,0 +1,33 @@
+<?wpl version="1.0"?>
+<smil>
+    <head/>
+    <body>
+        <seq>
+            <media src="11 Track 11.wma"/>
+            <media src="God Can Heal.wma"/>
+            <media src="Give Thanks To The Lord.wma"/>
+            <media src="Marvin Sapp - Hallelujah.mp3"/>
+            <media src="02 Track 2.wma"/>
+            <media src="Hold On To Ur Faith.wma"/>
+            <media src="07 Track 7.wma"/>
+            <media src="09 Track 9.wma"/>
+            <media src="15 Track 15.wma"/>
+            <media src="08 Track 8.wma"/>
+            <media src="09 Track 9 (2).wma"/>
+            <media src="11 Track 11 (2).wma"/>
+            <media src="14 Track 14.wma"/>
+            <media src="01 Track 1.wma"/>
+            <media src="14 Track 14 (2).wma"/>
+            <media src="09 Track 9 (3).wma"/>
+            <media src="10 Track 10.wma"/>
+            <media src="14 Track 14 (3).wma"/>
+            <media src="05 Track 5.wma"/>
+            <media src="05.tonex - God Has Not 4Got.mp3"/>
+            <media src="30.Byron Cage - I Will Bless The Lord.mp3"/>
+            <media src="37.McClurkin - I Speak Life.mp3"/>
+            <media src="98.Shekinah Glory Ministry - Worship, Honor And Love.mp3"/>
+            <media src="Marvin Sapp - 01 - One Thing (1).mp3"/>
+            <media src="Marvin Sapp - Unrestricted Praise.mp3"/>
+        </seq>
+    </body>
+</smil>
